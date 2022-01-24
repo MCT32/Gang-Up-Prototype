@@ -115,6 +115,25 @@
 		"brighttext"		"0"
 		"command"		"jointeam 3"
 	}	
+	"jointeam4"
+	{
+		"ControlName"		"Button"
+		"fieldName"		"jointeam4"
+		"xpos"			"76"
+		"ypos"			"180"
+		"wide"			"148"
+		"tall"			"20"
+		"autoResize"		"0"
+		"pinCorner"		"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"		"4"
+		"labelText"		"#TM_Join_Team_4"
+		"textAlignment"		"west"
+		"dulltext"		"0"
+		"brighttext"		"0"
+		"command"		"jointeam 4"
+	}	
 	"autojoin"
 	{
 		"ControlName"		"Button"
